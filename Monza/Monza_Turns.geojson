@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Monza_Turns",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Turn_No": 1, "Turn_Name": "Variante Del Rettifilo" }, "geometry": { "type": "Point", "coordinates": [ 9.282007061423379, 45.624515265707551 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 2, "Turn_Name": "Variante del Rettifilo" }, "geometry": { "type": "Point", "coordinates": [ 9.282501850489952, 45.624598013022378 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 3, "Turn_Name": "Curva Grande" }, "geometry": { "type": "Point", "coordinates": [ 9.28262985027021, 45.628491512219874 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 4, "Turn_Name": "Variante della Roggia" }, "geometry": { "type": "Point", "coordinates": [ 9.291429566256337, 45.630152335309781 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 5, "Turn_Name": "Variante della Roggia" }, "geometry": { "type": "Point", "coordinates": [ 9.291576389533699, 45.630567533392998 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 6, "Turn_Name": "Curva di Lesmo 1" }, "geometry": { "type": "Point", "coordinates": [ 9.29605853309979, 45.631368586220695 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 7, "Turn_Name": "Curva di Lesmo 2" }, "geometry": { "type": "Point", "coordinates": [ 9.296887842600499, 45.628385452552017 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 8, "Turn_Name": "Variante Ascari" }, "geometry": { "type": "Point", "coordinates": [ 9.285829306962629, 45.622694041606913 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 9, "Turn_Name": "Variante Ascari" }, "geometry": { "type": "Point", "coordinates": [ 9.285984197453034, 45.621791306367527 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 10, "Turn_Name": "Variante Ascari" }, "geometry": { "type": "Point", "coordinates": [ 9.285209745001012, 45.621114245399021 ] } },
+{ "type": "Feature", "properties": { "Turn_No": 11, "Turn_Name": "Curva Parabolica" }, "geometry": { "type": "Point", "coordinates": [ 9.282557245352827, 45.611617603839782 ] } },
+{ "type": "Feature", "properties": { "Turn_No": null, "Turn_Name": "PIT_IN" }, "geometry": { "type": "Point", "coordinates": [ 9.280897012908799, 45.614329643080794 ] } },
+{ "type": "Feature", "properties": { "Turn_No": null, "Turn_Name": "PIT_OUT" }, "geometry": { "type": "Point", "coordinates": [ 9.281516574870418, 45.620443946986171 ] } },
+{ "type": "Feature", "properties": { "Turn_No": null, "Turn_Name": "PIT_LANE" }, "geometry": { "type": "Point", "coordinates": [ 9.281371365035662, 45.617728817912464 ] } }
+]
+}
